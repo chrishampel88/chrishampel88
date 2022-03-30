@@ -3,9 +3,9 @@
 
 ```js
 const me ={
-  name = Christian Hernan Hampel;
-  code = [JavaScript , HTML ,CSS]
-  tools = [React, Redux, PHP, Bootstrap, Express, PostgreSQL, Node.js, Sequelize]  
+  name : Christian Hernan Hampel;
+  code : [JavaScript , HTML ,CSS]
+  tools : [React, Redux, PHP, Bootstrap, Express, PostgreSQL, Node.js, Sequelize]  
 }
 ```
 
